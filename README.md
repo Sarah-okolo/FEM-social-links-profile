@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Solution Screenshot
 
-![Desktop view]()
-![Mobile view]()
+![Desktop view](/design/solution-social-links-desktop.png)
+![Mobile view](/design/solution-social-links-mobile.png)
 
 ### Links
 
